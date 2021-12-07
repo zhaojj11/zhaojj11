@@ -20,8 +20,8 @@
 
 ### Projects I am currently working on
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dailyJ&repo=daily&show_owner=true)](https://github.com/dailyJ/daily)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=dailyJ&repo=deditor&show_owner=true)](https://github.com/dailyJ/deditor)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ursaa&repo=ursaa&show_owner=true)](https://github.com/ursaa/ursaa)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ursaa&repo=uditor&show_owner=true)](https://github.com/ursaa/uditor)
 
 ### 1 day, 1 commit
 
